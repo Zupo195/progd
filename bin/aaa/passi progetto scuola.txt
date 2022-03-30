@@ -1,0 +1,16 @@
+-Creazione App (vuote)
+-creazione oggetti e relazioni su Schema Builder
+-Creazione campi
+-Creazione Automazione
+-Impostazione Permessi
+-Configurazione app
+
+
+-quick action
+-scheduled pagella
+-curia
+
+
+
+-aggiunta note
+-volendo sospensione
