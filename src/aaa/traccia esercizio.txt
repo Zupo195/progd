@@ -1,0 +1,12 @@
+ROOM - HOUSE - AGENCY - MAIN - VIEW se rimane tempo
+	aggiunge flag boolean venduta a house
+
+fare i metodi:
+- getHouse(code)
+- getHouseS(città e costo massimo)
+- getTotalGuagni(10% sul netto di ogni casa venduta)
+- aggiunta e cancellazione di una casa
+- se finiamo prima Viste
+
+
+Obiettivi: saper scrivere le entities, 
